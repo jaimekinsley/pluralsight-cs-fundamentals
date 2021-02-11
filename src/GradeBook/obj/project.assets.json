@@ -1,0 +1,64 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/JLS3xny/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/JLS3xny/Dev/trainings/pluralsight-csharp-fundamentals/gradebook/src/GradeBook/GradeBook.csproj",
+      "projectName": "GradeBook",
+      "projectPath": "/Users/JLS3xny/Dev/trainings/pluralsight-csharp-fundamentals/gradebook/src/GradeBook/GradeBook.csproj",
+      "packagesPath": "/Users/JLS3xny/.nuget/packages/",
+      "outputPath": "/Users/JLS3xny/Dev/trainings/pluralsight-csharp-fundamentals/gradebook/src/GradeBook/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/JLS3xny/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://hdqc.myget.org/F/quotecenter/auth/2bcb3db2-b589-4a28-b0a0-90c97fc0bce0/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
