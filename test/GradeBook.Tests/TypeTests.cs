@@ -14,12 +14,12 @@ namespace GradeBook.Tests
             Assert.Equal(42, x);
         }
 
-        private void SetInt(ref object z)
+        private void SetInt(ref int z)
         {
             z = 42;
         }
 
-        private object GetInt()
+        private int GetInt()
         {
             return 3;
         }
